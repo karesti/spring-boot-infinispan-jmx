@@ -1,7 +1,7 @@
 # Spring-Boot and Infinispan in Client/Server mode, JMX error reproducer
 
 The project is using Infinispan in Client/Server mode and Spring-Boot.
-Using the [Infispan Spring-Boot starter](https://github.com/infinispan/infinispan-spring-boot/)
+Using the [Infinispan Spring-Boot starter](https://github.com/infinispan/infinispan-spring-boot/)
 
 Run the Infinispan Server with docker:
 ```docker run -it -p 11222:11222 jboss/infinispan-server:latest```
